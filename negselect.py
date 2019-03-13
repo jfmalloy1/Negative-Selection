@@ -179,7 +179,6 @@ def chiral_stats(chiral_detect):
 
 def main():
 	#Create english training data - reverse letter frequencies
-	#TODO: add underscores?
 	eng_freq = {
     'a': .01923,
     'b': .03846,
